@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Program of the island perimeter calculator"""
+"""Program of the island perimeter calculator"""
 
 
 def island_perimeter(grid):
